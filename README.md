@@ -1,2 +1,2 @@
 # Projekt-JVJ
-Projekt do RPR pod režií nejlepšího Scrum Mastera
+Projekt do RPR pod režií nejlepšího Scrum Mastera - cap
